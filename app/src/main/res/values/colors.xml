@@ -7,5 +7,7 @@
     <color name="jdl">#2196F3</color>
     <color name="un">#FFEB3B</color>
     <color name="txt">#000000</color>
+    <color name="txtcolor">#ffffff</color>
     <color name="label">#000000</color>
+    <color name="bckgrnd">#ffe4b5</color>
 </resources>
